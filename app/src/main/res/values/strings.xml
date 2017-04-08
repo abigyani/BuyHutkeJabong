@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My BuyHutke</string>
+    <string name="action_history">History</string>
+    <string name="disclaimer">This is a test assignment done under BuyHutke. The developer does not claim or take any resposibility for the given content.
+    </string>
+    <string name="note">App is highly dependent on Internet Connection. Weak Internet Connection may disrupt proper functioning. In case of lost connection, simply restart the app.   </string>
+</resources>

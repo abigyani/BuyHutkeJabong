@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="lab.artista.buyhutkejabong.MainActivity">
+
+    <item
+        android:id="@+id/menu_go_forward"
+        android:orderInCategory="100"
+        android:icon="@mipmap/ic_arrow_forward_white_24dp"
+        android:title="forward"
+        app:showAsAction="always" />
+
+    <group>
+
+        <item
+            android:id="@+id/action_history"
+            android:orderInCategory="101"
+            android:title="@string/action_history"
+            app:showAsAction="never" />
+
+
+        <item
+            android:id="@+id/action_exit"
+            android:orderInCategory="102"
+            android:title="Exit"
+            app:showAsAction="never" />
+
+    </group>
+
+</menu>

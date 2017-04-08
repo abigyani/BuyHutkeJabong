@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "350882221045",
+    "firebase_url": "https://buyhutkejabong.firebaseio.com",
+    "project_id": "buyhutkejabong",
+    "storage_bucket": "buyhutkejabong.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350882221045:android:933819a9010a74a2",
+        "android_client_info": {
+          "package_name": "lab.artista.buyhutkejabong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350882221045-u96dfs0k3h5cqtdr4nm83vp81nnk4at8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lab.artista.buyhutkejabong",
+            "certificate_hash": "396ce9914c24e45c5b20f598960b17b518e7c1c0"
+          }
+        },
+        {
+          "client_id": "350882221045-2k2jj6m69912bftus6obulihtbatmqui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdamy5C1EAyuAGeWRPzsLQk0OfLD_dJmc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350882221045-2k2jj6m69912bftus6obulihtbatmqui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
